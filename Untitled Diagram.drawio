@@ -1,110 +1,116 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.9.2">
   <diagram name="Page-1" id="blypGUQqqR9Q18_wwFLJ">
-    <mxGraphModel dx="763" dy="423" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="1382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufcA8yW0rhlH3dC8Inf3-1" target="ufcA8yW0rhlH3dC8Inf3-2">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ufcA8yW0rhlH3dC8Inf3-1" target="ufcA8yW0rhlH3dC8Inf3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-1" value="Project Integration Management" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-1" value="Project Integration Management" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufcA8yW0rhlH3dC8Inf3-2" target="ufcA8yW0rhlH3dC8Inf3-4">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ufcA8yW0rhlH3dC8Inf3-2" target="ufcA8yW0rhlH3dC8Inf3-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-2" value="Project Scope Management" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-2" value="Project Scope Management" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufcA8yW0rhlH3dC8Inf3-4" target="ufcA8yW0rhlH3dC8Inf3-6">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ufcA8yW0rhlH3dC8Inf3-4" target="ufcA8yW0rhlH3dC8Inf3-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-4" value="Project Schedule Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-4" value="Project Schedule Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufcA8yW0rhlH3dC8Inf3-6" target="ufcA8yW0rhlH3dC8Inf3-16">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ufcA8yW0rhlH3dC8Inf3-6" target="ufcA8yW0rhlH3dC8Inf3-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-6" value="Project Cost Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-6" value="Project Cost Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-8" value="Includes Process and activities needed to &lt;b&gt;&lt;u&gt;identify, define, combine, unify and coordinate the various process and project management activities&lt;/u&gt;&lt;/b&gt; within the project management process groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-8" value="Includes Process and activities needed to &lt;b&gt;&lt;u&gt;identify, define, combine, unify and coordinate the various process and project management activities&lt;/u&gt;&lt;/b&gt; within the project management process groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="105" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="119.5" as="sourcePoint" />
             <mxPoint x="260" y="119.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-10" value="Includes the process required to ensure that the project includes &lt;b&gt;&lt;u&gt;all the work required and only the work required&lt;/u&gt;&lt;/b&gt;, to complete the project successfully &lt;b&gt;(Only the project related works)&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-10" value="Includes the process required to ensure that the project includes &lt;b&gt;&lt;u&gt;all the work required and only the work required&lt;/u&gt;&lt;/b&gt;, to complete the project successfully &lt;b&gt;(Only the project related works)&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="245" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="259.5" as="sourcePoint" />
             <mxPoint x="260" y="259.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-12" value="Includes the process required to manage the &lt;b&gt;&lt;u&gt;timely completion&lt;/u&gt;&lt;/b&gt; of the project" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-12" value="Includes the process required to manage the &lt;b&gt;&lt;u&gt;timely completion&lt;/u&gt;&lt;/b&gt; of the project" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="382" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="396.5" as="sourcePoint" />
             <mxPoint x="260" y="396.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-14" value="Includes the process involved in planning, estimating, budgeting, financing, funding, managing and controlling cost so that the project can be completed within the &lt;b&gt;approved budget&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-14" value="Includes the process involved in planning, estimating, budgeting, financing, funding, managing and controlling cost so that the project can be completed within the &lt;b&gt;approved budget&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="525" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="539.5" as="sourcePoint" />
             <mxPoint x="260" y="539.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufcA8yW0rhlH3dC8Inf3-16" target="ufcA8yW0rhlH3dC8Inf3-20">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ufcA8yW0rhlH3dC8Inf3-16" target="ufcA8yW0rhlH3dC8Inf3-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-16" value="Project Quality Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-16" value="Project Quality Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-18" value="Includes the process for incorporating the organization quality policy regarding planning, managing, and controlling project and product quality requirements in order&lt;b&gt; to meet stakeholders objectivies&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-18" value="Includes the process for incorporating the organization quality policy regarding planning, managing, and controlling project and product quality requirements in order&lt;b&gt; to meet stakeholders objectivies&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="665" width="541" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="679.5" as="sourcePoint" />
             <mxPoint x="260" y="679.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufcA8yW0rhlH3dC8Inf3-20" target="ufcA8yW0rhlH3dC8Inf3-24">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ufcA8yW0rhlH3dC8Inf3-20" target="ufcA8yW0rhlH3dC8Inf3-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-20" value="Project Resource Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-20" value="Project Resource Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-22" value="Includes the process to&lt;b&gt; identify, acquire and manage&lt;/b&gt; the resource needed for the succesful completion of project&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-22" value="Includes the process to&lt;b&gt; identify, acquire and manage&lt;/b&gt; the resource needed for the succesful completion of project&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="805" width="541" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="819.5" as="sourcePoint" />
             <mxPoint x="260" y="819.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-24" value="Project Communication Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-24" value="Project Communication Management" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-26" value="Includes the process necessary to ensure that the information needs of the project and its stakeholders are met through development of artifacts and implementation of activities designed to &lt;b&gt;achieve effective information exchange&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-26" value="Includes the process necessary to ensure that the information needs of the project and its stakeholders are met through development of artifacts and implementation of activities designed to &lt;b&gt;achieve effective information exchange&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="945" width="541" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ufcA8yW0rhlH3dC8Inf3-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ufcA8yW0rhlH3dC8Inf3-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="959.5" as="sourcePoint" />
             <mxPoint x="260" y="959.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ECNGXBlf3DGzN6Ofp58G-1" value="Project Management" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="7" y="-827" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECNGXBlf3DGzN6Ofp58G-2" value="Includes Process and activities needed to &lt;b&gt;&lt;u&gt;identify, define, combine, unify and coordinate the various process and project management activities&lt;/u&gt;&lt;/b&gt; within the project management process groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="137" y="-812" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
